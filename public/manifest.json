@@ -1,0 +1,18 @@
+{
+	"lang": "en",
+	"name": "Multiplication Table",
+	"description": "Interactive Multiplication Table for Children",
+	"short_name": "Multiplify",
+	"start_url": "/index.html",
+	"scope": "/",
+	"display": "fullscreen",
+	"icons": [
+		{
+			"src": "/multiplication-green.png",
+			"sizes": "297x297",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#2E3D49",
+	"background_color": "#2E3D49"
+}
